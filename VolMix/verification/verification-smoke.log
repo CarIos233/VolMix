@@ -1,0 +1,15 @@
+tray icon visible=True handle=18809509
+thumb size -> 20 (dragging=False hover=False)
+thumb size -> 20 (dragging=False hover=False)
+wheel hook: installed
+thumb size -> 20 (dragging=False hover=False)
+thumb size -> 20 (dragging=False hover=False)
+foreground: acquired
+flyout shown: visible=True rows=1 size=420x203 pos=1155,382
+device: {0.0.0.00000000}.{2589705f-4f32-4c11-aed8-912158a6a6af} / 扬声器 (Realtek(R) Audio)
+acrylic backdrop: active
+flyout hide requested
+flyout visible after hide=False
+tray menu shown: visible=True size=214x167
+tray menu hidden
+smoke test complete
