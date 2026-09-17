@@ -1,0 +1,14 @@
+VolMix diagnostics 1.8
+64 bit: True
+devices: 3
+  扬声器 (Realtek(R) Audio) :: {0.0.0.00000000}.{2589705f-4f32-4c11-aed8-912158a6a6af}
+  扬声器 (Steam Streaming Microphone) :: {0.0.0.00000000}.{ce86a7e3-7add-434a-8ff3-ab1ef8968776}
+  扬声器 (Steam Streaming Speakers) :: {0.0.0.00000000}.{150022b8-53e4-4e9f-8449-845da9010787}
+default: 扬声器 (Realtek(R) Audio)
+master volume: 77%
+master muted: False
+sessions: 2
+  [Microsoft Edge] pid=4532 vol=77% mute=False active=False system=False controls=1
+      image: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  [系统声音] pid=0 vol=57% mute=False active=False system=True controls=1
+      image: <none>
