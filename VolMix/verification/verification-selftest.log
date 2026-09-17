@@ -1,9 +1,0 @@
-VolMix self test 1.9
-templates(dark): ok
-templates(light, regenerated): ok generation=2
-tray icon: ok size=24x24 handle=4917487
-settings round trip: ok (appearance=Dark)
-startup toggle: set=True present=True restored=True
-start menu shortcut: created=True present=True restored=True
-session volume write: no session
-RESULT: PASS
